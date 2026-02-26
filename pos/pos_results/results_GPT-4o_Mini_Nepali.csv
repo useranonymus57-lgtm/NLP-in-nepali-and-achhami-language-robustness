@@ -1,0 +1,2 @@
+model,dialect,accuracy,macro_f1,micro_f1,weighted_f1,macro_precision,macro_recall,true_positives,false_positives,false_negatives,total_tokens,total_sentences
+GPT-4o Mini,Nepali,0.8480029585798816,0.7714311553388276,0.8480029585798816,0.8503983337436383,0.796037709968988,0.787660879845638,2293,411,411,2704,294

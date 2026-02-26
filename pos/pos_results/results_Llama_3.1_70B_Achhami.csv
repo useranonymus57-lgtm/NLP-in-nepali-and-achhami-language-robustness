@@ -1,0 +1,2 @@
+model,dialect,accuracy,macro_f1,micro_f1,weighted_f1,macro_precision,macro_recall,true_positives,false_positives,false_negatives,total_tokens,total_sentences
+Llama 3.1 70B,Achhami,0.7664735698769009,0.5175807230404482,0.7664735698769009,0.7794191704793425,0.5517180531856772,0.5139372581338074,2117,645,645,2762,295

@@ -1,0 +1,2 @@
+model,dialect,accuracy,macro_f1,micro_f1,weighted_f1,macro_precision,macro_recall,true_positives,false_positives,false_negatives,total_tokens,total_sentences
+GPT-4o Mini,Achhami,0.8743664011585808,0.7012025287876736,0.8743664011585808,0.8734170246998594,0.7006201881599485,0.7114733759386335,2415,347,347,2762,295

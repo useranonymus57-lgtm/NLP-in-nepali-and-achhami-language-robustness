@@ -1,0 +1,2 @@
+model,dialect,accuracy,macro_f1,micro_f1,weighted_f1,macro_precision,macro_recall,true_positives,false_positives,false_negatives,total_tokens,total_sentences
+Claude 3.5 Haiku,Achhami,0.9036929761042722,0.7222221887056562,0.9036929761042722,0.9065529125901597,0.7200962423014373,0.7354079207835132,2496,266,266,2762,295

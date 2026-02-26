@@ -1,0 +1,2 @@
+model,dialect,accuracy,macro_f1,micro_f1,weighted_f1,macro_precision,macro_recall,true_positives,false_positives,false_negatives,total_tokens,total_sentences
+Llama 3.1 70B,Nepali,0.8184171597633136,0.5704438772074616,0.8184171597633136,0.8267057096739583,0.5814689711924839,0.6363438257283575,2213,491,491,2704,294
