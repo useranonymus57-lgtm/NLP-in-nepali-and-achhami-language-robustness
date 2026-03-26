@@ -8,9 +8,7 @@
 
 This repository contains the dataset, annotation guidelines, evaluation scripts, and results for our study on dialectal robustness in Nepali NLP systems. We benchmark **5 NER models** and **4 POS tagging models** on a parallel corpus of **300 sentences** in both Standard Nepali and the Achhami dialect of the Far-Western region of Nepal.
 
-***
-
-## 📂 Repository Structure
+```
 ner_model/
 ├── dialect_dataset.csv
 ├── NER_BERT/
@@ -37,7 +35,8 @@ ner_model/
     ├── nercsv
     ├── ner_achami - Sheet1.csv
     └── performance_degradation_...
-***
+```
+```
 pos/
 ├── ack_dataset_clean.csv
 ├── achham_dataset.csv
@@ -76,7 +75,7 @@ pos/
     ├── results_Llama_3_1_70B_Ne...
     └── results_summary.csv
 
- *** 
+ ```
 ## 📊 Dataset
 
 | Property | Details |
